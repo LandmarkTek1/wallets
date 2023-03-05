@@ -1,3 +1,4 @@
 Development starts on 1st april 2023
 release of beta version in may 2023
 fixing of bugs in the beta version
+release of testnet in june 2023
